@@ -1,2 +1,2 @@
-# UNITN.NLU.Lab
-Lab Material of Natural Language Understanding Class of University of Trento
+# NLU.Lab.2022
+Laboratory Material for Natural Language Understanding course of University of Trento
