@@ -1,2 +1,4 @@
-# UNITN.NLU.Lab
-Lab Material of Natural Language Understanding Class of University of Trento
+# NLU.Lab.2021
+Laboratory material of Natural Language Understanding of University of Trento (2021)
+
+Note: Solutions are partially updated!
